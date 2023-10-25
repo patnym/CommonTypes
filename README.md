@@ -9,9 +9,9 @@ The only reason there's a csproj file in the snippet folder is to help developme
 ## Supported types
 
 - Country codes: ISO 3166-1 alpha-2
-    Format: `CountryCode` (2 letters) - `NumericValue`
+   - Format: `CountryCode` (2 letters) - `NumericValue`
 - Currencies: ISO 4217
-    Format: `CurrencyCode` (3 letters) - `NumericValue`
+   - Format: `CurrencyCode` (3 letters) - `NumericValue`
 
 ## Contributing
 
